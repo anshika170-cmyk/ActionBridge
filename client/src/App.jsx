@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { Activity, ArrowDownToLine, ArrowRight, Bot, CalendarDays, Check, CheckCircle2, ChevronDown, CircleAlert, ClipboardList, FileText, Filter, Mail, Menu, MessageSquareText, Plus, Search, Send, Sparkles, Target, Trash2, Users, X } from "lucide-react";
 import { jsPDF } from "jspdf";
-const API = import.meta.env.VITE_API_URL || "http://localhost:5000/api";
+const API = `${import.meta.env.VITE_API_URL || "http://localhost:5000"}/api`;
 const sampleNotes = `Project sync — October 23
 Decision: Launch the beta after QA signs off.
 - Maya will prepare the onboarding copy by tomorrow.
