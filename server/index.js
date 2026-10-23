@@ -123,5 +123,9 @@ app.use((err,_req,res,_next) => {
   console.error(err);
   res.status(500).json({error:"Unexpected server error."});
 });
+
 const port = process.env.PORT || 5000;
-app.listen(port, () => console.log(`ActionBridge API running at http://localhost:${port}`));
+
+app.listen(port, "0.0.0.0", () => {
+  console.log(`ActionBridge API running on port ${port}`);
+});
