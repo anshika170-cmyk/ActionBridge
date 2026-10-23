@@ -1,0 +1,873 @@
+{
+  "tasks": [],
+  "meetings": [
+    {
+      "id": "3e29dd74-04fd-42fd-b821-aa67f37f0ac6",
+      "title": "Weekly project sync",
+      "notes": "Project sync — October 23\nDecision: Launch the beta after QA signs off.\n- Maya will prepare the onboarding copy by tomorrow.\n- Send the updated prototype to the design team by Friday. Owner: Arjun\n- Investigate the login bug ASAP. Owner: Maya\n- Priya will draft the launch announcement by next week.\n- Confirm analytics events with the product team.\n- QA depends on the login fix before final sign-off.",
+      "createdAt": "2026-10-23T10:48:08.665Z",
+      "analysis": {
+        "summary": "Project sync — October 23 Decision: Launch the beta after QA signs off. - Maya will prepare the onboarding copy by tomorrow.",
+        "tasks": [
+          {
+            "title": "Maya will prepare the onboarding copy by tomorrow",
+            "owner": "Maya",
+            "dueDate": "2026-10-24",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Maya will prepare the onboarding copy by tomorrow."
+          },
+          {
+            "title": "Send the updated prototype to the design team by Friday. Owner: Arjun",
+            "owner": "Arjun",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Send the updated prototype to the design team by Friday. Owner: Arjun"
+          },
+          {
+            "title": "Investigate the login bug ASAP. Owner: Maya",
+            "owner": "Maya",
+            "dueDate": "",
+            "priority": "High",
+            "status": "Open",
+            "sourceLine": "- Investigate the login bug ASAP. Owner: Maya"
+          },
+          {
+            "title": "Priya will draft the launch announcement by next week",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Priya will draft the launch announcement by next week."
+          },
+          {
+            "title": "Confirm analytics events with the product team",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Confirm analytics events with the product team."
+          },
+          {
+            "title": "QA depends on the login fix before final sign-off",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- QA depends on the login fix before final sign-off."
+          }
+        ],
+        "decisions": [
+          "Launch the beta after QA signs off."
+        ],
+        "risks": [
+          "3 task(s) do not have a clear owner.",
+          "4 task(s) do not have a clear deadline.",
+          "The notes mention a blocker or dependency; confirm what must happen first.",
+          "Urgency language was detected; confirm priority with the meeting owner."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. Maya will prepare the onboarding copy by tomorrow — Owner: Maya — Due: 2026-10-24 [Medium priority]\n2. Send the updated prototype to the design team by Friday. Owner: Arjun — Owner: Arjun — Due date: TBD [Medium priority]\n3. Investigate the login bug ASAP. Owner: Maya — Owner: Maya — Due date: TBD [High priority]\n4. Priya will draft the launch announcement by next week — Owner: TBD — Due: 2026-10-30 [Medium priority]\n5. Confirm analytics events with the product team — Owner: TBD — Due date: TBD [Medium priority]\n6. QA depends on the login fix before final sign-off — Owner: TBD — Due date: TBD [Medium priority]\nDecisions:\n- Launch the beta after QA signs off.\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 6,
+          "missingOwners": 3,
+          "missingDates": 4,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "12cc1559-e098-4466-938b-120a79ddf420",
+      "title": "Weekly project sync",
+      "notes": "# Project Sync — October 23\n\n**Meeting Owner:** Maya  \n**Decision:** Launch the beta after QA signs off.\n\n### Action Items\n- Prepare the onboarding copy by tomorrow. **Owner:** Maya\n- Send the updated prototype to the design team by Friday. **Owner:** Arjun\n- Investigate and fix the login bug as soon as possible. **Owner:** Maya\n- Draft the launch announcement by next week. **Owner:** Priya\n- Confirm analytics events with the product team. **Owner:** TBD\n- Complete QA and provide final sign-off after the login bug is fixed. **Owner:** QA Team\n\n### Dependencies\n- QA final sign-off depends on the login bug being fixed.\n\n### Next Steps\n- Track progress on all action items.\n- Confirm the analytics events owner.\n- Proceed with the beta launch once QA approves it.",
+      "createdAt": "2026-10-23T10:47:46.298Z",
+      "analysis": {
+        "summary": "# Project Sync — October 23 **Meeting Owner:** Maya **Decision:** Launch the beta after QA signs off.",
+        "tasks": [
+          {
+            "title": "### Action Items",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "### Action Items"
+          },
+          {
+            "title": "Prepare the onboarding copy by tomorrow. **Owner:** Maya",
+            "owner": "",
+            "dueDate": "2026-10-24",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Prepare the onboarding copy by tomorrow. **Owner:** Maya"
+          },
+          {
+            "title": "Send the updated prototype to the design team by Friday. **Owner:** Arjun",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Send the updated prototype to the design team by Friday. **Owner:** Arjun"
+          },
+          {
+            "title": "Investigate and fix the login bug as soon as possible. **Owner:** Maya",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Investigate and fix the login bug as soon as possible. **Owner:** Maya"
+          },
+          {
+            "title": "Draft the launch announcement by next week. **Owner:** Priya",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Draft the launch announcement by next week. **Owner:** Priya"
+          },
+          {
+            "title": "Confirm analytics events with the product team. **Owner:** TBD",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Confirm analytics events with the product team. **Owner:** TBD"
+          },
+          {
+            "title": "Complete QA and provide final sign-off after the login bug is fixed. **Owner:** QA Team",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Complete QA and provide final sign-off after the login bug is fixed. **Owner:** QA Team"
+          },
+          {
+            "title": "QA final sign-off depends on the login bug being fixed",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- QA final sign-off depends on the login bug being fixed."
+          },
+          {
+            "title": "Track progress on all action items",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Track progress on all action items."
+          },
+          {
+            "title": "Confirm the analytics events owner",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Confirm the analytics events owner."
+          },
+          {
+            "title": "Proceed with the beta launch once QA approves it",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Proceed with the beta launch once QA approves it."
+          }
+        ],
+        "decisions": [],
+        "risks": [
+          "11 task(s) do not have a clear owner.",
+          "9 task(s) do not have a clear deadline.",
+          "The notes mention a blocker or dependency; confirm what must happen first."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. ### Action Items — Owner: TBD — Due date: TBD [Medium priority]\n2. Prepare the onboarding copy by tomorrow. **Owner:** Maya — Owner: TBD — Due: 2026-10-24 [Medium priority]\n3. Send the updated prototype to the design team by Friday. **Owner:** Arjun — Owner: TBD — Due date: TBD [Medium priority]\n4. Investigate and fix the login bug as soon as possible. **Owner:** Maya — Owner: TBD — Due date: TBD [Medium priority]\n5. Draft the launch announcement by next week. **Owner:** Priya — Owner: TBD — Due: 2026-10-30 [Medium priority]\n6. Confirm analytics events with the product team. **Owner:** TBD — Owner: TBD — Due date: TBD [Medium priority]\n7. Complete QA and provide final sign-off after the login bug is fixed. **Owner:** QA Team — Owner: TBD — Due date: TBD [Medium priority]\n8. QA final sign-off depends on the login bug being fixed — Owner: TBD — Due date: TBD [Medium priority]\n9. Track progress on all action items — Owner: TBD — Due date: TBD [Medium priority]\n10. Confirm the analytics events owner — Owner: TBD — Due date: TBD [Medium priority]\n11. Proceed with the beta launch once QA approves it — Owner: TBD — Due date: TBD [Medium priority]\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 11,
+          "missingOwners": 11,
+          "missingDates": 9,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "6cc085b3-3183-40f2-9b2d-a33c206bc284",
+      "title": "Weekly project sync",
+      "notes": "# Meeting Notes: Website Development Project\n\n**Date:** 23 October 2026  \n**Time:** 11:00 AM – 11:30 AM  \n**Meeting Owner:** Rahul Sharma (Project Manager)  \n**Attendees:** Rahul Sharma, Priya Verma, Arjun Singh, Neha Gupta\n\n## 1. Meeting Objective\nReview website development progress, discuss current issues, and assign responsibilities for pending tasks.\n\n## 2. Key Discussion Points\n- Priya presented the updated UI/UX design.\n- Arjun reported that the homepage development is nearly complete.\n- Neha discussed API integration and database setup.\n- The team identified a login bug that needs urgent attention.\n- Rahul proposed conducting a project demo next week.\n\n## 3. Decisions Made\n- Finalize the homepage design by 25 October.\n- Fix the login bug by 26 October.\n- Complete API integration by 27 October.\n- Conduct the project demo on 28 October.\n\n## 4. Action Items\n\n| Action Item | Owner | Deadline | Priority |\n|---|---|---|---|\n| Finalize homepage design | Priya Verma | 25 Oct 2026 | Medium |\n| Fix the login bug | Neha Gupta | 26 Oct 2026 | High |\n| Complete API integration | Arjun Singh | 27 Oct 2026 | High |\n| Prepare the demo presentation | Rahul Sharma | 28 Oct 2026 | Medium |\n\n## 5. Next Steps\nEach owner must complete their assigned tasks by the deadline and report progress to Rahul Sharma. The next meeting will review progress and confirm demo readiness.\n\n**Meeting Status:** Concluded  \n**Meeting Owner:** Rahul Sharma (Project Manager)",
+      "createdAt": "2026-10-23T10:46:32.485Z",
+      "analysis": {
+        "summary": "# Meeting Notes: Website Development Project **Date:** 23 October 2026 **Time:** 11:00 AM – 11:30 AM",
+        "tasks": [
+          {
+            "title": "Review website development progress, discuss current issues, and assign responsibilities for pending tasks",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "Review website development progress, discuss current issues, and assign responsibilities for pending tasks."
+          },
+          {
+            "title": "Priya presented the updated UI/UX design",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Priya presented the updated UI/UX design."
+          },
+          {
+            "title": "Arjun reported that the homepage development is nearly complete",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Arjun reported that the homepage development is nearly complete."
+          },
+          {
+            "title": "Neha discussed API integration and database setup",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Neha discussed API integration and database setup."
+          },
+          {
+            "title": "The team identified a login bug that needs urgent attention",
+            "owner": "",
+            "dueDate": "",
+            "priority": "High",
+            "status": "Open",
+            "sourceLine": "- The team identified a login bug that needs urgent attention."
+          },
+          {
+            "title": "Rahul proposed conducting a project demo next week",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Rahul proposed conducting a project demo next week."
+          },
+          {
+            "title": "Finalize the homepage design by 25 October",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Finalize the homepage design by 25 October."
+          },
+          {
+            "title": "Fix the login bug by 26 October",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Fix the login bug by 26 October."
+          },
+          {
+            "title": "Complete API integration by 27 October",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Complete API integration by 27 October."
+          },
+          {
+            "title": "Conduct the project demo on 28 October",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Conduct the project demo on 28 October."
+          },
+          {
+            "title": "## 4. Action Items",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "## 4. Action Items"
+          },
+          {
+            "title": "| Action Item | Owner | Deadline | Priority |",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "| Action Item | Owner | Deadline | Priority |"
+          },
+          {
+            "title": "Each owner must complete their assigned tasks by the deadline and report progress to Rahul Sharma. The next meeting will review progress and confirm demo readiness",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "Each owner must complete their assigned tasks by the deadline and report progress to Rahul Sharma. The next meeting will review progress and confirm demo readiness."
+          }
+        ],
+        "decisions": [],
+        "risks": [
+          "13 task(s) do not have a clear owner.",
+          "12 task(s) do not have a clear deadline.",
+          "Urgency language was detected; confirm priority with the meeting owner."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. Review website development progress, discuss current issues, and assign responsibilities for pending tasks — Owner: TBD — Due date: TBD [Medium priority]\n2. Priya presented the updated UI/UX design — Owner: TBD — Due date: TBD [Medium priority]\n3. Arjun reported that the homepage development is nearly complete — Owner: TBD — Due date: TBD [Medium priority]\n4. Neha discussed API integration and database setup — Owner: TBD — Due date: TBD [Medium priority]\n5. The team identified a login bug that needs urgent attention — Owner: TBD — Due date: TBD [High priority]\n6. Rahul proposed conducting a project demo next week — Owner: TBD — Due: 2026-10-30 [Medium priority]\n7. Finalize the homepage design by 25 October — Owner: TBD — Due date: TBD [Medium priority]\n8. Fix the login bug by 26 October — Owner: TBD — Due date: TBD [Medium priority]\n9. Complete API integration by 27 October — Owner: TBD — Due date: TBD [Medium priority]\n10. Conduct the project demo on 28 October — Owner: TBD — Due date: TBD [Medium priority]\n11. ## 4. Action Items — Owner: TBD — Due date: TBD [Medium priority]\n12. | Action Item | Owner | Deadline | Priority | — Owner: TBD — Due date: TBD [Medium priority]\n13. Each owner must complete their assigned tasks by the deadline and report progress to Rahul Sharma. The next meeting will review progress and confirm demo readiness — Owner: TBD — Due date: TBD [Medium priority]\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 13,
+          "missingOwners": 13,
+          "missingDates": 12,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "deadline",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "365cf001-3930-4d03-b22f-bc0c2081f0a3",
+      "title": "Weekly project sync",
+      "notes": "# Meeting Notes: Website Development Project\n\n**Date:** 23 October 2026  \n**Time:** 11:00 AM – 11:30 AM  \n**Attendees:** Project Manager, UI/UX Designer, Frontend Developer, Backend Developer  \n**Meeting Objective:** Discuss project progress and plan the next development tasks.\n\n## 1. Key Discussion Points\n- The UI/UX designer presented the updated website design.\n- The frontend developer reported that the homepage is nearly complete.\n- The backend developer discussed API integration and database setup.\n- The team identified a login issue that needs to be fixed before testing.\n- The team agreed to conduct a demo next week.\n\n## 2. Decisions Made\n- Finalize the homepage design by 25 October.\n- Complete login functionality by 27 October.\n- Begin integration testing after the login issue is resolved.\n- Schedule the next meeting for 28 October 2026.\n\n## 3. Action Items\n\n| Task | Owner | Deadline | Priority |\n|---|---|---|---|\n| Finalize homepage design | UI/UX Designer | 25 Oct | Medium |\n| Fix login bug | Backend Developer | 26 Oct | High |\n| Integrate APIs | Frontend Developer | 27 Oct | High |\n| Prepare project demo | Project Manager | 28 Oct | Medium |\n\n## 4. Next Steps\nAll team members will update their progress before the next meeting. The project manager will review completed tasks and prepare the demo agenda.\n\n**Meeting Status:** Concluded",
+      "createdAt": "2026-10-23T10:45:22.194Z",
+      "analysis": {
+        "summary": "# Meeting Notes: Website Development Project **Date:** 23 October 2026 **Time:** 11:00 AM – 11:30 AM",
+        "tasks": [
+          {
+            "title": "The UI/UX designer presented the updated website design",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- The UI/UX designer presented the updated website design."
+          },
+          {
+            "title": "The frontend developer reported that the homepage is nearly complete",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- The frontend developer reported that the homepage is nearly complete."
+          },
+          {
+            "title": "The backend developer discussed API integration and database setup",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- The backend developer discussed API integration and database setup."
+          },
+          {
+            "title": "The team identified a login issue that needs to be fixed before testing",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- The team identified a login issue that needs to be fixed before testing."
+          },
+          {
+            "title": "The team agreed to conduct a demo next week",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- The team agreed to conduct a demo next week."
+          },
+          {
+            "title": "Finalize the homepage design by 25 October",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Finalize the homepage design by 25 October."
+          },
+          {
+            "title": "Complete login functionality by 27 October",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Complete login functionality by 27 October."
+          },
+          {
+            "title": "Begin integration testing after the login issue is resolved",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Begin integration testing after the login issue is resolved."
+          },
+          {
+            "title": "Schedule the next meeting for 28 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Schedule the next meeting for 28 October 2026."
+          },
+          {
+            "title": "## 3. Action Items",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "## 3. Action Items"
+          },
+          {
+            "title": "All team members will update their progress before the next meeting. The project manager will review completed tasks and prepare the demo agenda",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "All team members will update their progress before the next meeting. The project manager will review completed tasks and prepare the demo agenda."
+          }
+        ],
+        "decisions": [],
+        "risks": [
+          "11 task(s) do not have a clear owner.",
+          "10 task(s) do not have a clear deadline."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. The UI/UX designer presented the updated website design — Owner: TBD — Due date: TBD [Medium priority]\n2. The frontend developer reported that the homepage is nearly complete — Owner: TBD — Due date: TBD [Medium priority]\n3. The backend developer discussed API integration and database setup — Owner: TBD — Due date: TBD [Medium priority]\n4. The team identified a login issue that needs to be fixed before testing — Owner: TBD — Due date: TBD [Medium priority]\n5. The team agreed to conduct a demo next week — Owner: TBD — Due: 2026-10-30 [Medium priority]\n6. Finalize the homepage design by 25 October — Owner: TBD — Due date: TBD [Medium priority]\n7. Complete login functionality by 27 October — Owner: TBD — Due date: TBD [Medium priority]\n8. Begin integration testing after the login issue is resolved — Owner: TBD — Due date: TBD [Medium priority]\n9. Schedule the next meeting for 28 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n10. ## 3. Action Items — Owner: TBD — Due date: TBD [Medium priority]\n11. All team members will update their progress before the next meeting. The project manager will review completed tasks and prepare the demo agenda — Owner: TBD — Due date: TBD [Medium priority]\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 11,
+          "missingOwners": 11,
+          "missingDates": 10,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "deadline",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "4ac164a7-dd6f-4d70-9cde-a474cec03af4",
+      "title": "Weekly project sync",
+      "notes": "Project sync — October 23\nDecision: Launch the beta after QA signs off.\n- Maya will prepare the onboarding copy by tomorrow.\n- Send the updated prototype to the design team by Friday. Owner: Arjun\n- Investigate the login bug ASAP. Owner: Maya\n- Priya will draft the launch announcement by next week.\n- Confirm analytics events with the product team.\n- QA depends on the login fix before final sign-off.",
+      "createdAt": "2026-10-23T10:44:09.089Z",
+      "analysis": {
+        "summary": "Project sync — October 23 Decision: Launch the beta after QA signs off. - Maya will prepare the onboarding copy by tomorrow.",
+        "tasks": [
+          {
+            "title": "Maya will prepare the onboarding copy by tomorrow",
+            "owner": "Maya",
+            "dueDate": "2026-10-24",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Maya will prepare the onboarding copy by tomorrow."
+          },
+          {
+            "title": "Send the updated prototype to the design team by Friday. Owner: Arjun",
+            "owner": "Arjun",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Send the updated prototype to the design team by Friday. Owner: Arjun"
+          },
+          {
+            "title": "Investigate the login bug ASAP. Owner: Maya",
+            "owner": "Maya",
+            "dueDate": "",
+            "priority": "High",
+            "status": "Open",
+            "sourceLine": "- Investigate the login bug ASAP. Owner: Maya"
+          },
+          {
+            "title": "Priya will draft the launch announcement by next week",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Priya will draft the launch announcement by next week."
+          },
+          {
+            "title": "Confirm analytics events with the product team",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Confirm analytics events with the product team."
+          },
+          {
+            "title": "QA depends on the login fix before final sign-off",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- QA depends on the login fix before final sign-off."
+          }
+        ],
+        "decisions": [
+          "Launch the beta after QA signs off."
+        ],
+        "risks": [
+          "3 task(s) do not have a clear owner.",
+          "4 task(s) do not have a clear deadline.",
+          "The notes mention a blocker or dependency; confirm what must happen first.",
+          "Urgency language was detected; confirm priority with the meeting owner."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. Maya will prepare the onboarding copy by tomorrow — Owner: Maya — Due: 2026-10-24 [Medium priority]\n2. Send the updated prototype to the design team by Friday. Owner: Arjun — Owner: Arjun — Due date: TBD [Medium priority]\n3. Investigate the login bug ASAP. Owner: Maya — Owner: Maya — Due date: TBD [High priority]\n4. Priya will draft the launch announcement by next week — Owner: TBD — Due: 2026-10-30 [Medium priority]\n5. Confirm analytics events with the product team — Owner: TBD — Due date: TBD [Medium priority]\n6. QA depends on the login fix before final sign-off — Owner: TBD — Due date: TBD [Medium priority]\nDecisions:\n- Launch the beta after QA signs off.\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 6,
+          "missingOwners": 3,
+          "missingDates": 4,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "2fd55ac3-7e41-4c1d-982a-a37242318404",
+      "title": "Weekly project sync",
+      "notes": "Project sync — October 23\nDecision: Launch the beta after QA signs off.\n- Maya will prepare the onboarding copy by tomorrow.\n- Send the updated prototype to the design team by Friday. Owner: Arjun\n- Investigate the login bug ASAP. Owner: Maya\n- Priya will draft the launch announcement by next week.\n- Confirm analytics events with the product team.\n- QA depends on the login fix before final sign-off.",
+      "createdAt": "2026-10-22T20:42:12.558Z",
+      "analysis": {
+        "summary": "Project sync — October 23 Decision: Launch the beta after QA signs off. - Maya will prepare the onboarding copy by tomorrow.",
+        "tasks": [
+          {
+            "title": "Maya will prepare the onboarding copy by tomorrow",
+            "owner": "Maya",
+            "dueDate": "2026-10-24",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Maya will prepare the onboarding copy by tomorrow."
+          },
+          {
+            "title": "Send the updated prototype to the design team by Friday. Owner: Arjun",
+            "owner": "Arjun",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Send the updated prototype to the design team by Friday. Owner: Arjun"
+          },
+          {
+            "title": "Investigate the login bug ASAP. Owner: Maya",
+            "owner": "Maya",
+            "dueDate": "",
+            "priority": "High",
+            "status": "Open",
+            "sourceLine": "- Investigate the login bug ASAP. Owner: Maya"
+          },
+          {
+            "title": "Priya will draft the launch announcement by next week",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Priya will draft the launch announcement by next week."
+          },
+          {
+            "title": "Confirm analytics events with the product team",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Confirm analytics events with the product team."
+          },
+          {
+            "title": "QA depends on the login fix before final sign-off",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- QA depends on the login fix before final sign-off."
+          }
+        ],
+        "decisions": [
+          "Launch the beta after QA signs off."
+        ],
+        "risks": [
+          "3 task(s) do not have a clear owner.",
+          "4 task(s) do not have a clear deadline.",
+          "The notes mention a blocker or dependency; confirm what must happen first.",
+          "Urgency language was detected; confirm priority with the meeting owner."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. Maya will prepare the onboarding copy by tomorrow — Owner: Maya — Due: 2026-10-24 [Medium priority]\n2. Send the updated prototype to the design team by Friday. Owner: Arjun — Owner: Arjun — Due date: TBD [Medium priority]\n3. Investigate the login bug ASAP. Owner: Maya — Owner: Maya — Due date: TBD [High priority]\n4. Priya will draft the launch announcement by next week — Owner: TBD — Due: 2026-10-30 [Medium priority]\n5. Confirm analytics events with the product team — Owner: TBD — Due date: TBD [Medium priority]\n6. QA depends on the login fix before final sign-off — Owner: TBD — Due date: TBD [Medium priority]\nDecisions:\n- Launch the beta after QA signs off.\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 6,
+          "missingOwners": 3,
+          "missingDates": 4,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "90984e0a-7332-4a26-8e4c-cd4fac6147f0",
+      "title": "Weekly project sync",
+      "notes": "Project sync — October 23\nDecision: Launch the beta after QA signs off.\n- Maya will prepare the onboarding copy by tomorrow.\n- Send the updated prototype to the design team by Friday. Owner: Arjun\n- Investigate the login bug ASAP. Owner: Maya\n- Priya will draft the launch announcement by next week.\n- Confirm analytics events with the product team.\n- QA depends on the login fix before final sign-off.",
+      "createdAt": "2026-10-22T20:40:04.129Z",
+      "analysis": {
+        "summary": "Project sync — October 23 Decision: Launch the beta after QA signs off. - Maya will prepare the onboarding copy by tomorrow.",
+        "tasks": [
+          {
+            "title": "Maya will prepare the onboarding copy by tomorrow",
+            "owner": "Maya",
+            "dueDate": "2026-10-24",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Maya will prepare the onboarding copy by tomorrow."
+          },
+          {
+            "title": "Send the updated prototype to the design team by Friday. Owner: Arjun",
+            "owner": "Arjun",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Send the updated prototype to the design team by Friday. Owner: Arjun"
+          },
+          {
+            "title": "Investigate the login bug ASAP. Owner: Maya",
+            "owner": "Maya",
+            "dueDate": "",
+            "priority": "High",
+            "status": "Open",
+            "sourceLine": "- Investigate the login bug ASAP. Owner: Maya"
+          },
+          {
+            "title": "Priya will draft the launch announcement by next week",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Priya will draft the launch announcement by next week."
+          },
+          {
+            "title": "Confirm analytics events with the product team",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Confirm analytics events with the product team."
+          },
+          {
+            "title": "QA depends on the login fix before final sign-off",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- QA depends on the login fix before final sign-off."
+          }
+        ],
+        "decisions": [
+          "Launch the beta after QA signs off."
+        ],
+        "risks": [
+          "3 task(s) do not have a clear owner.",
+          "4 task(s) do not have a clear deadline.",
+          "The notes mention a blocker or dependency; confirm what must happen first.",
+          "Urgency language was detected; confirm priority with the meeting owner."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. Maya will prepare the onboarding copy by tomorrow — Owner: Maya — Due: 2026-10-24 [Medium priority]\n2. Send the updated prototype to the design team by Friday. Owner: Arjun — Owner: Arjun — Due date: TBD [Medium priority]\n3. Investigate the login bug ASAP. Owner: Maya — Owner: Maya — Due date: TBD [High priority]\n4. Priya will draft the launch announcement by next week — Owner: TBD — Due: 2026-10-30 [Medium priority]\n5. Confirm analytics events with the product team — Owner: TBD — Due date: TBD [Medium priority]\n6. QA depends on the login fix before final sign-off — Owner: TBD — Due date: TBD [Medium priority]\nDecisions:\n- Launch the beta after QA signs off.\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 6,
+          "missingOwners": 3,
+          "missingDates": 4,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "ebe5bc2e-d7f4-41f8-a915-e0bfe3bde0e9",
+      "title": "Weekly project sync",
+      "notes": "Project sync — October 23\nDecision: Launch the beta after QA signs off.\n- Maya will prepare the onboarding copy by tomorrow.\n- Send the updated prototype to the design team by Friday. Owner: Arjun\n- Investigate the login bug ASAP. Owner: Maya\n- Priya will draft the launch announcement by next week.\n- Confirm analytics events with the product team.\n- QA depends on the login fix before final sign-off.",
+      "createdAt": "2026-10-22T20:33:53.647Z",
+      "analysis": {
+        "summary": "Project sync — October 23 Decision: Launch the beta after QA signs off. - Maya will prepare the onboarding copy by tomorrow.",
+        "tasks": [
+          {
+            "title": "Maya will prepare the onboarding copy by tomorrow",
+            "owner": "Maya",
+            "dueDate": "2026-10-24",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Maya will prepare the onboarding copy by tomorrow."
+          },
+          {
+            "title": "Send the updated prototype to the design team by Friday. Owner: Arjun",
+            "owner": "Arjun",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Send the updated prototype to the design team by Friday. Owner: Arjun"
+          },
+          {
+            "title": "Investigate the login bug ASAP. Owner: Maya",
+            "owner": "Maya",
+            "dueDate": "",
+            "priority": "High",
+            "status": "Open",
+            "sourceLine": "- Investigate the login bug ASAP. Owner: Maya"
+          },
+          {
+            "title": "Priya will draft the launch announcement by next week",
+            "owner": "",
+            "dueDate": "2026-10-30",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Priya will draft the launch announcement by next week."
+          },
+          {
+            "title": "Confirm analytics events with the product team",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Confirm analytics events with the product team."
+          },
+          {
+            "title": "QA depends on the login fix before final sign-off",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- QA depends on the login fix before final sign-off."
+          }
+        ],
+        "decisions": [
+          "Launch the beta after QA signs off."
+        ],
+        "risks": [
+          "3 task(s) do not have a clear owner.",
+          "4 task(s) do not have a clear deadline.",
+          "The notes mention a blocker or dependency; confirm what must happen first.",
+          "Urgency language was detected; confirm priority with the meeting owner."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. Maya will prepare the onboarding copy by tomorrow — Owner: Maya — Due: 2026-10-24 [Medium priority]\n2. Send the updated prototype to the design team by Friday. Owner: Arjun — Owner: Arjun — Due date: TBD [Medium priority]\n3. Investigate the login bug ASAP. Owner: Maya — Owner: Maya — Due date: TBD [High priority]\n4. Priya will draft the launch announcement by next week — Owner: TBD — Due: 2026-10-30 [Medium priority]\n5. Confirm analytics events with the product team — Owner: TBD — Due date: TBD [Medium priority]\n6. QA depends on the login fix before final sign-off — Owner: TBD — Due date: TBD [Medium priority]\nDecisions:\n- Launch the beta after QA signs off.\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 6,
+          "missingOwners": 3,
+          "missingDates": 4,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "owner",
+          "decision"
+        ]
+      }
+    },
+    {
+      "id": "0b2b6835-bc4e-4169-9d0b-6d61c055e01f",
+      "title": "Weekly project sync",
+      "notes": "# Meeting Notes: Website Launch Planning\n\n**Date:** 20 October 2026  \n**Attendees:** Priya Sharma, Rahul Verma, Ananya Singh, Karan Mehta  \n**Meeting Objective:** Finalize tasks and timelines for the upcoming website launch.\n\n## Discussion Summary\n\nThe team reviewed the progress of the new company website. The homepage design is almost complete, but the mobile layout still needs improvement. The team agreed that the website should be ready for internal testing by 30 October 2026.\n\nPriya suggested adding a customer feedback form before launch. Rahul reported that the login API is experiencing intermittent errors and needs further testing. Ananya mentioned that the product images have not yet been optimized, which could affect page-loading speed.\n\nThe team agreed to prioritize the mobile layout, API stability, and image optimization before starting internal testing.\n\n## Action Items\n\n1. **Priya Sharma:** Complete the homepage and mobile-responsive design by 24 October 2026.\n2. **Rahul Verma:** Investigate and fix the login API errors by 25 October 2026.\n3. **Ananya Singh:** Compress and optimize all product images by 26 October 2026.\n4. **Karan Mehta:** Create the customer feedback form by 27 October 2026.\n5. **Rahul Verma:** Run API integration tests and share the results by 28 October 2026.\n6. **Priya Sharma:** Coordinate the internal website testing session on 30 October 2026.\n\n## Decisions Made\n\n- The internal testing deadline is 30 October 2026.\n- Mobile",
+      "createdAt": "2026-10-22T20:02:55.336Z",
+      "analysis": {
+        "summary": "# Meeting Notes: Website Launch Planning **Date:** 20 October 2026 **Attendees:** Priya Sharma, Rahul Verma, Ananya Singh, Karan Mehta",
+        "tasks": [
+          {
+            "title": "## Action Items",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "## Action Items"
+          },
+          {
+            "title": "**Priya Sharma:** Complete the homepage and mobile-responsive design by 24 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "1. **Priya Sharma:** Complete the homepage and mobile-responsive design by 24 October 2026."
+          },
+          {
+            "title": "**Rahul Verma:** Investigate and fix the login API errors by 25 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "2. **Rahul Verma:** Investigate and fix the login API errors by 25 October 2026."
+          },
+          {
+            "title": "**Ananya Singh:** Compress and optimize all product images by 26 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "3. **Ananya Singh:** Compress and optimize all product images by 26 October 2026."
+          },
+          {
+            "title": "**Karan Mehta:** Create the customer feedback form by 27 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "4. **Karan Mehta:** Create the customer feedback form by 27 October 2026."
+          },
+          {
+            "title": "**Rahul Verma:** Run API integration tests and share the results by 28 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "5. **Rahul Verma:** Run API integration tests and share the results by 28 October 2026."
+          },
+          {
+            "title": "**Priya Sharma:** Coordinate the internal website testing session on 30 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "6. **Priya Sharma:** Coordinate the internal website testing session on 30 October 2026."
+          },
+          {
+            "title": "The internal testing deadline is 30 October 2026",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- The internal testing deadline is 30 October 2026."
+          },
+          {
+            "title": "Mobile",
+            "owner": "",
+            "dueDate": "",
+            "priority": "Medium",
+            "status": "Open",
+            "sourceLine": "- Mobile"
+          }
+        ],
+        "decisions": [],
+        "risks": [
+          "9 task(s) do not have a clear owner.",
+          "9 task(s) do not have a clear deadline."
+        ],
+        "followUp": "Subject: Follow-up and action items\nHi everyone,\nThanks for the discussion. Here is the current action-item summary:\n1. ## Action Items — Owner: TBD — Due date: TBD [Medium priority]\n2. **Priya Sharma:** Complete the homepage and mobile-responsive design by 24 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n3. **Rahul Verma:** Investigate and fix the login API errors by 25 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n4. **Ananya Singh:** Compress and optimize all product images by 26 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n5. **Karan Mehta:** Create the customer feedback form by 27 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n6. **Rahul Verma:** Run API integration tests and share the results by 28 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n7. **Priya Sharma:** Coordinate the internal website testing session on 30 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n8. The internal testing deadline is 30 October 2026 — Owner: TBD — Due date: TBD [Medium priority]\n9. Mobile — Owner: TBD — Due date: TBD [Medium priority]\nPlease reply with any corrections, missing owners, or deadline changes.\nBest,",
+        "stats": {
+          "taskCount": 9,
+          "missingOwners": 9,
+          "missingDates": 9,
+          "sharedDeadlines": 0
+        },
+        "detectedKeywords": [
+          "meeting notes",
+          "deadline",
+          "decision"
+        ]
+      }
+    }
+  ]
+}
